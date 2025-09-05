@@ -62,16 +62,6 @@ Desenvolvedor de software FullStack com foco atual em iOS. Experiência prática
 
 </div>
 
-## A cobrinha que come seus commits 🐍
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AntonelliAA/AntonelliAA/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AntonelliAA/AntonelliAA/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://github.com/AntonelliAA/AntonelliAA/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
-> Dica: para a cobrinha funcionar, crie o repositório especial `AntonelliAA/AntonelliAA` e configure o GitHub Action do projeto `platane/snk` para gerar os arquivos em `output/`.
-
 ---
 
 Feito com ❤️ por Anthony Antonelli Andrade.
